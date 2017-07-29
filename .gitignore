@@ -1,1 +1,8 @@
 node_modules
+npm-debug.log
+
+typings
+app/**/*.js
+app/**/*.map
+jspm_packages
+bower_components
