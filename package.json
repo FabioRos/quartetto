@@ -1,0 +1,22 @@
+{
+  "name": "Quartetto",
+  "version": "0.0.1",
+  "description": "Gestore Quartetto",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/FabioRos/quartetto",
+  "keywords": [
+    "Quartetto",
+    "Tracking",
+    "Analytics",
+    "Cycling",
+    "Track"
+  ],
+  "author": "GitHub",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "~1.6.2"
+  }
+}
