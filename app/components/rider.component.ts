@@ -2,7 +2,9 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'rider',
-  template: '<p>Rider: {{last_name}} {{first_name}}</p>'
+//  template: '<p>Rider: {{last_name}} {{first_name}}</p>'
+  templateUrl:  'app/view/templates/rider.html'
+
 })
 export class RiderComponent {
   first_name: string;
